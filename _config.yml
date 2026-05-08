@@ -24,21 +24,21 @@ repository               : "sebmonte/sebmonte.github.io"
 author:
   # Biographic information
   avatar           : "Sebastian.png"
-  name             : "Your Sidebar Name"
+  name             : "Sebastian Montesinos"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "PhD Candidate"
+  location         : "Princeton, NJ"
+  employer         : "Princeton University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sm6511@princeton.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=nA6cTiwAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0223-0138"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
