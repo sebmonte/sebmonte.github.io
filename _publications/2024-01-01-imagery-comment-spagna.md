@@ -3,7 +3,7 @@ title: "From tasks to models of visual mental imagery: Comment on Spagna et al."
 collection: publications
 category: manuscripts
 permalink: /publication/2024-imagery-comment-spagna
-excerpt: 'Commentary on Spagna et al.’s heterarchical model of mental imagery (HeXaGeN), focusing on how heterogeneous imagery tasks relate to underlying cognitive processes and to claims about neural architecture.'
+excerpt: 'A commentary piece on the neuroscience of mental imagery that raises a few important questions for the field: first, how do we successfully dissociate mental imagery from other cognitive processes? Second, what is the correct model of how the brain instantiates mental imagery, and how much evidence do we have for this model?'
 date: 2024-01-01
 venue: 'Physics of Life Reviews'
 paperurl: 'https://www.researchgate.net/publication/379814537_From_Tasks_to_Models_of_Visual_Mental_Imagery_Comment_on_Visual_mental_imagery_Evidence_for_a_heterarchical_neural_architecture_by_Spagna_et_al'
