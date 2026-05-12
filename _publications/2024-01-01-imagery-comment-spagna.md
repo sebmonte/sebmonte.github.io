@@ -10,4 +10,5 @@ paperurl: 'https://www.researchgate.net/publication/379814537_From_Tasks_to_Mode
 citation: 'Montesinos, S. (2024). From tasks to models of visual mental imagery: Comment on &quot;Visual mental imagery: Evidence for a heterarchical neural architecture&quot; by Spagna et al. <i>Physics of Life Reviews</i>.'
 ---
 
-This comment discusses how diverse experimental paradigms in mental imagery research map onto cognitive constructs, the overlap between imagery and working memory, and what is needed to connect task designs to models such as HeXaGeN.
+A commentary piece on the neuroscience of mental imagery that raises a few important questions for the field: first, how do we successfully dissociate mental imagery from other cognitive processes? Second, what is the correct model of how the brain instantiates mental imagery, and how much evidence do we have for this model?
+
