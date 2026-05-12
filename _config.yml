@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "Sebastian.png"
   name             : "Sebastian Montesinos"
-  pronouns         : # example: "she/her"  
+  pronouns         : "He/Him"
   bio              : "PhD Candidate"
   location         : "Princeton, NJ"
   employer         : "Princeton University"
@@ -33,15 +33,15 @@ author:
   email            : "sm6511@princeton.edu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://amherst.academia.edu/SebastianMontesinos"
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=nA6cTiwAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-0223-0138"
+  orcid            : "https://orcid.org/0009-0006-5102-7889"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages1"
+  github           : "sebmonte"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/sebastian-montesinos-772026251/""
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
