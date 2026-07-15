@@ -15,8 +15,11 @@
 
   /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
-
   margin-top: 3em;
+
+  /* Pin footer to the viewport bottom on short pages (e.g. CV download page) */
+  position: fixed;
+  bottom: 0;
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -89,5 +92,13 @@
     a {
       white-space: nowrap;
     }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  /* Don't pin the footer on mobile; keep it in document flow */
+  .page__footer {
+    position: relative;
+    bottom: auto;
   }
 }
